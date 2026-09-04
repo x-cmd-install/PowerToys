@@ -1,0 +1,66 @@
+about:
+  description: Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows
+  license: MIT
+  homepage: 
+  head: a1ba833
+  archived: false
+  latestVersion: v0.101.2432.0
+  collectedAt: 2026-09-04T04:20:51Z
+timeline:
+  created: 2019-05-01
+  lastCommit: 2026-09-03
+  lastRelease: 2026-09-01
+popularity:
+  star: 138357
+  watcher: 1236
+  fork: 8548
+  release: 146
+  contributor: 676
+  pullRequest: 1502
+  issue: 41425
+language:
+  C: 30547780
+  C#: 18139017
+  C++: 9422247
+  PowerShell: 407100
+  Python: 158074
+  JavaScript: 35954
+  HLSL: 13106
+  HTML: 9959
+  Rich Text Format: 9666
+  Batchfile: 3690
+  Makefile: 1408
+totalLine: 58748001
+recent:
+  last30d:
+    since: 2026-08-05
+    release: 12
+    mergedPR: 90
+    openPR: 79
+    closedIssue: 179
+    openIssue: 280
+    commit: 125
+  last90d:
+    since: 2026-06-06
+    release: 15
+    mergedPR: 334
+    openPR: 127
+    closedIssue: 566
+    openIssue: 816
+    commit: 370
+  last180d:
+    since: 2026-03-08
+    release: 19
+    mergedPR: 671
+    openPR: 133
+    closedIssue: 1508
+    openIssue: 1643
+    commit: 675
+  last360d:
+    since: 2025-09-09
+    release: 28
+    mergedPR: 1297
+    openPR: 138
+    closedIssue: 4077
+    openIssue: 2480
+    commit: 1283
