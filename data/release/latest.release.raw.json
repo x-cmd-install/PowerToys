@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 9044,
       "digest": "sha256:237d35306899de77539d65d3a2084cd875429a19dfcd1e599edb83aaeebae43a",
-      "download_count": 588,
+      "download_count": 590,
       "created_at": "2026-08-25T08:16:17Z",
       "updated_at": "2026-08-25T08:16:18Z",
       "browser_download_url": "https://github.com/microsoft/PowerToys/releases/download/v0.101.2362.0/GroupPolicyObjectFiles-0.101.2362.0.zip"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 287842320,
       "digest": "sha256:bee299302c0cd59e282bdc92cc8aaf737713eabcca77bb8bf09f43745d43cd93",
-      "download_count": 6326,
+      "download_count": 6364,
       "created_at": "2026-08-25T08:17:43Z",
       "updated_at": "2026-08-25T08:18:05Z",
       "browser_download_url": "https://github.com/microsoft/PowerToys/releases/download/v0.101.2362.0/PowerToysSetup-0.101.2362.0-arm64.exe"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 296399776,
       "digest": "sha256:f27e4b4b01bff1a74bfa0116c99f9205f7138db6f7dfcaa9223fb8b635fe6050",
-      "download_count": 234539,
+      "download_count": 235579,
       "created_at": "2026-08-25T08:17:15Z",
       "updated_at": "2026-08-25T08:17:38Z",
       "browser_download_url": "https://github.com/microsoft/PowerToys/releases/download/v0.101.2362.0/PowerToysSetup-0.101.2362.0-x64.exe"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 287815872,
       "digest": "sha256:4c2ae5156b7e4f1f5ba744ba6e1cf6bfe3d9614978356e6b00aa47cab86350db",
-      "download_count": 8189,
+      "download_count": 8228,
       "created_at": "2026-08-25T08:16:47Z",
       "updated_at": "2026-08-25T08:17:08Z",
       "browser_download_url": "https://github.com/microsoft/PowerToys/releases/download/v0.101.2362.0/PowerToysUserSetup-0.101.2362.0-arm64.exe"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 296370216,
       "digest": "sha256:d56fa7130fa68afe553068c15a59a6b24c8dbcc9a0989a43ef0fc5a373230de3",
-      "download_count": 317666,
+      "download_count": 319623,
       "created_at": "2026-08-25T08:16:21Z",
       "updated_at": "2026-08-25T08:16:43Z",
       "browser_download_url": "https://github.com/microsoft/PowerToys/releases/download/v0.101.2362.0/PowerToysUserSetup-0.101.2362.0-x64.exe"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 482920225,
       "digest": "sha256:1eb189b6bb278d09215dd8688dc602d5c2da44c1f9dc839c0ad9fc6959b32ef1",
-      "download_count": 435,
+      "download_count": 436,
       "created_at": "2026-08-25T08:18:16Z",
       "updated_at": "2026-08-25T08:18:50Z",
       "browser_download_url": "https://github.com/microsoft/PowerToys/releases/download/v0.101.2362.0/symbols-x64.zip"
