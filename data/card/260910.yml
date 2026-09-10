@@ -2,31 +2,31 @@ about:
   description: "Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows"
   license: MIT
   homepage: 
-  head: 65d79b2
+  head: 7dd034f
   archived: false
-  latestVersion: "v0.101.2512.0"
+  latestVersion: "v0.101.2522.0"
   latestRelease: "v0.101.2362.0"
-  latestPrerelease: "v0.101.2512.0"
-  collectedAt: 2026-09-10T05:34:36Z
+  latestPrerelease: "v0.101.2522.0"
+  collectedAt: 2026-09-10T17:27:11Z
 timeline:
   created: 2019-05-01
   lastCommit: 2026-09-10
-  lastVersion: 2026-09-09
+  lastVersion: 2026-09-10
   lastRelease: 2026-08-25
-  lastPrerelease: 2026-09-09
+  lastPrerelease: 2026-09-10
 popularity:
-  star: 138524
-  watcher: 1232
-  fork: 8548
+  star: 138537
+  watcher: 1231
+  fork: 8549
   release: 139
   contributor: 664
-  pullRequest: 8607
-  issue: 41502
+  pullRequest: 8609
+  issue: 41507
 language:
   C: 30547780
-  C#: 18898050
+  C#: 19049266
   C++: 9450718
-  PowerShell: 448253
+  PowerShell: 455081
   Python: 158074
   JavaScript: 35954
   HTML: 9959
@@ -34,72 +34,72 @@ language:
   Rich Text Format: 9666
   Batchfile: 3690
   Makefile: 1408
-totalBytes: 59573397
+totalBytes: 59731441
 recent:
   last30d:
     since: 2026-08-11
     release: 5
-    mergedPR: 80
-    openPR: 89
-    closedIssue: 184
-    openIssue: 284
-    commit: 101
+    mergedPR: 81
+    openPR: 90
+    closedIssue: 185
+    openIssue: 287
+    commit: 102
   last60d:
     since: 2026-07-12
     release: 5
-    mergedPR: 193
-    openPR: 123
-    closedIssue: 324
-    openIssue: 485
-    commit: 234
+    mergedPR: 194
+    openPR: 124
+    closedIssue: 325
+    openIssue: 488
+    commit: 235
   last90d:
     since: 2026-06-12
     release: 7
-    mergedPR: 325
-    openPR: 139
-    closedIssue: 534
-    openIssue: 765
-    commit: 383
+    mergedPR: 326
+    openPR: 140
+    closedIssue: 535
+    openIssue: 768
+    commit: 384
   last180d:
     since: 2026-03-14
     release: 12
-    mergedPR: 666
-    openPR: 146
-    closedIssue: 1482
-    openIssue: 1655
-    commit: 679
+    mergedPR: 667
+    openPR: 147
+    closedIssue: 1483
+    openIssue: 1658
+    commit: 680
   last360d:
     since: 2025-09-15
     release: 21
-    mergedPR: 1300
-    openPR: 152
-    closedIssue: 4052
-    openIssue: 2491
-    commit: 1294
+    mergedPR: 1301
+    openPR: 153
+    closedIssue: 4053
+    openIssue: 2494
+    commit: 1295
   last720d:
     since: 2024-09-20
     release: 36
-    mergedPR: 2247
-    openPR: 154
-    closedIssue: 8039
-    openIssue: 4157
-    commit: 2162
+    mergedPR: 2248
+    openPR: 155
+    closedIssue: 8042
+    openIssue: 4159
+    commit: 2163
 total:
   release: 139
-  mergedPR: 7085
-  openPR: 154
-  closedIssue: 33966
-  openIssue: 7536
-  commit: 9640
+  mergedPR: 7086
+  openPR: 155
+  closedIssue: 33969
+  openIssue: 7538
+  commit: 9641
 ---
 path: /home/runner/.x-repo/github.com/microsoft/PowerToys
-collectedAt: 2026-09-10T05:35:13Z
+collectedAt: 2026-09-10T17:27:33Z
 loc:
   CSharp:
-    code: 397614
-    comments: 67220
-    blanks: 78124
-    files: 4146
+    code: 400283
+    comments: 67395
+    blanks: 78462
+    files: 4162
   C:
     code: 278129
     comments: 498
@@ -111,7 +111,7 @@ loc:
     blanks: 22912
     files: 611
   Xaml:
-    code: 41022
+    code: 41034
     comments: 1265
     blanks: 1621
     files: 301
@@ -146,20 +146,20 @@ loc:
     blanks: 208
     files: 129
   MsBuild:
-    code: 10984
-    comments: 1009
-    blanks: 1322
-    files: 280
+    code: 11083
+    comments: 1015
+    blanks: 1330
+    files: 282
   Json:
     code: 6686
     comments: 0
     blanks: 21
     files: 142
   PowerShell:
-    code: 5051
-    comments: 982
-    blanks: 746
-    files: 45
+    code: 5129
+    comments: 987
+    blanks: 752
+    files: 46
   Python:
     code: 2901
     comments: 298
@@ -171,10 +171,10 @@ loc:
     blanks: 2
     files: 62
   Xml:
-    code: 633
-    comments: 3
+    code: 666
+    comments: 8
     blanks: 7
-    files: 11
+    files: 12
   VisualStudioSolution:
     code: 274
     comments: 0
@@ -217,19 +217,19 @@ loc:
     files: 1
   Markdown:
     code: 0
-    comments: 20258
-    blanks: 7344
-    files: 217
+    comments: 20504
+    blanks: 7393
+    files: 218
   Text:
     code: 0
     comments: 1380
     blanks: 61
     files: 38
 total:
-  code: 1044965
-  comments: 142482
-  blanks: 131511
-  files: 7066
+  code: 1047880
+  comments: 142921
+  blanks: 131914
+  files: 7087
 ---
 date: "2026-09-07"
 repo:
