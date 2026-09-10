@@ -1,0 +1,361 @@
+about:
+  description: "Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows"
+  license: MIT
+  homepage: 
+  head: 65d79b2
+  archived: false
+  latestVersion: "v0.101.2512.0"
+  latestRelease: "v0.101.2362.0"
+  latestPrerelease: "v0.101.2512.0"
+  collectedAt: 2026-09-10T05:34:36Z
+timeline:
+  created: 2019-05-01
+  lastCommit: 2026-09-10
+  lastVersion: 2026-09-09
+  lastRelease: 2026-08-25
+  lastPrerelease: 2026-09-09
+popularity:
+  star: 138524
+  watcher: 1232
+  fork: 8548
+  release: 139
+  contributor: 664
+  pullRequest: 8607
+  issue: 41502
+language:
+  C: 30547780
+  C#: 18898050
+  C++: 9450718
+  PowerShell: 448253
+  Python: 158074
+  JavaScript: 35954
+  HTML: 9959
+  HLSL: 9845
+  Rich Text Format: 9666
+  Batchfile: 3690
+  Makefile: 1408
+totalBytes: 59573397
+recent:
+  last30d:
+    since: 2026-08-11
+    release: 5
+    mergedPR: 80
+    openPR: 89
+    closedIssue: 184
+    openIssue: 284
+    commit: 101
+  last60d:
+    since: 2026-07-12
+    release: 5
+    mergedPR: 193
+    openPR: 123
+    closedIssue: 324
+    openIssue: 485
+    commit: 234
+  last90d:
+    since: 2026-06-12
+    release: 7
+    mergedPR: 325
+    openPR: 139
+    closedIssue: 534
+    openIssue: 765
+    commit: 383
+  last180d:
+    since: 2026-03-14
+    release: 12
+    mergedPR: 666
+    openPR: 146
+    closedIssue: 1482
+    openIssue: 1655
+    commit: 679
+  last360d:
+    since: 2025-09-15
+    release: 21
+    mergedPR: 1300
+    openPR: 152
+    closedIssue: 4052
+    openIssue: 2491
+    commit: 1294
+  last720d:
+    since: 2024-09-20
+    release: 36
+    mergedPR: 2247
+    openPR: 154
+    closedIssue: 8039
+    openIssue: 4157
+    commit: 2162
+total:
+  release: 139
+  mergedPR: 7085
+  openPR: 154
+  closedIssue: 33966
+  openIssue: 7536
+  commit: 9640
+---
+path: /home/runner/.x-repo/github.com/microsoft/PowerToys
+collectedAt: 2026-09-10T05:35:13Z
+loc:
+  CSharp:
+    code: 397614
+    comments: 67220
+    blanks: 78124
+    files: 4146
+  C:
+    code: 278129
+    comments: 498
+    blanks: 556
+    files: 16
+  Cpp:
+    code: 141200
+    comments: 14140
+    blanks: 22912
+    files: 611
+  Xaml:
+    code: 41022
+    comments: 1265
+    blanks: 1621
+    files: 301
+  CppHeader:
+    code: 37765
+    comments: 610
+    blanks: 7876
+    files: 1
+  Yaml:
+    code: 27963
+    comments: 2
+    blanks: 39
+    files: 43
+  JavaScript:
+    code: 27578
+    comments: 23310
+    blanks: 4187
+    files: 113
+  CHeader:
+    code: 26329
+    comments: 4158
+    blanks: 5541
+    files: 724
+  DotNetResource:
+    code: 19278
+    comments: 6827
+    blanks: 19
+    files: 120
+  VisualStudioProject:
+    code: 15498
+    comments: 172
+    blanks: 208
+    files: 129
+  MsBuild:
+    code: 10984
+    comments: 1009
+    blanks: 1322
+    files: 280
+  Json:
+    code: 6686
+    comments: 0
+    blanks: 21
+    files: 142
+  PowerShell:
+    code: 5051
+    comments: 982
+    blanks: 746
+    files: 45
+  Python:
+    code: 2901
+    comments: 298
+    blanks: 608
+    files: 4
+  Svg:
+    code: 1695
+    comments: 4
+    blanks: 2
+    files: 62
+  Xml:
+    code: 633
+    comments: 3
+    blanks: 7
+    files: 11
+  VisualStudioSolution:
+    code: 274
+    comments: 0
+    blanks: 9
+    files: 9
+  ModuleDef:
+    code: 161
+    comments: 1
+    blanks: 5
+    files: 35
+  Hlsl:
+    code: 146
+    comments: 81
+    blanks: 31
+    files: 2
+  Batch:
+    code: 57
+    comments: 4
+    blanks: 13
+    files: 10
+  Html:
+    code: 56
+    comments: 10
+    blanks: 7
+    files: 4
+  Makefile:
+    code: 42
+    comments: 1
+    blanks: 15
+    files: 1
+  CMake:
+    code: 27
+    comments: 11
+    blanks: 5
+    files: 1
+  Css:
+    code: 2
+    comments: 6
+    blanks: 0
+    files: 1
+  Markdown:
+    code: 0
+    comments: 20258
+    blanks: 7344
+    files: 217
+  Text:
+    code: 0
+    comments: 1380
+    blanks: 61
+    files: 38
+total:
+  code: 1044965
+  comments: 142482
+  blanks: 131511
+  files: 7066
+---
+date: "2026-09-07"
+repo:
+  name: github.com/microsoft/PowerToys
+  commit: 071c25e115e8097117e26f6fcfe9901301307f7a
+scorecard:
+  version: v5.5.0
+  commit: c395761df6afe1a69e476bc60a013a94bcbc153f
+score: 6.2
+checks:
+  - name: Code-Review
+    score: 10
+    reason: all changesets reviewed
+    details: null
+  - name: Maintained
+    score: 10
+    reason: 30 commit(s) and 10 issue activity found in the last 90 days -- score normalized to 10
+    details: null
+  - name: Packaging
+    score: -1
+    reason: packaging workflow not detected
+    details:
+      - 'Warn: no GitHub/GitLab publishing workflow detected.'
+  - name: Security-Policy
+    score: 10
+    reason: security policy file detected
+    details:
+      - 'Info: security policy file detected: SECURITY.md:1'
+      - 'Info: Found linked content: SECURITY.md:1'
+      - 'Info: Found disclosure, vulnerability, and/or timelines in security policy: SECURITY.md:1'
+      - 'Info: Found text in security policy: SECURITY.md:1'
+  - name: Dangerous-Workflow
+    score: 10
+    reason: no dangerous workflow patterns detected
+    details: null
+  - name: CII-Best-Practices
+    score: 0
+    reason: no effort to earn an OpenSSF best practices badge detected
+    details: null
+  - name: Token-Permissions
+    score: 0
+    reason: detected GitHub workflow tokens with excessive permissions
+    details:
+      - 'Info: found token with ''none'' permissions: .github/workflows/issue-triage.lock.yml:1'
+      - 'Info: jobLevel ''actions'' permission set to ''read'': .github/workflows/issue-triage.lock.yml:81'
+      - 'Info: jobLevel ''contents'' permission set to ''read'': .github/workflows/issue-triage.lock.yml:82'
+      - 'Info: jobLevel ''contents'' permission set to ''read'': .github/workflows/issue-triage.lock.yml:360'
+      - 'Info: jobLevel ''issues'' permission set to ''read'': .github/workflows/issue-triage.lock.yml:362'
+      - 'Warn: jobLevel ''actions'' permission set to ''write'': .github/workflows/issue-triage.lock.yml:1161'
+      - 'Info: jobLevel ''contents'' permission set to ''read'': .github/workflows/issue-triage.lock.yml:1423'
+      - 'Info: jobLevel ''actions'' permission set to ''read'': .github/workflows/issue-triage.lock.yml:1675'
+      - 'Info: jobLevel ''contents'' permission set to ''read'': .github/workflows/issue-triage.lock.yml:1724'
+      - 'Info: jobLevel ''actions'' permission set to ''read'': .github/workflows/spelling2.yml:163'
+      - 'Warn: jobLevel ''contents'' permission set to ''write'': .github/workflows/spelling2.yml:176'
+      - 'Info: jobLevel ''actions'' permission set to ''read'': .github/workflows/spelling2.yml:178'
+      - 'Info: jobLevel ''contents'' permission set to ''read'': .github/workflows/spelling2.yml:83'
+      - 'Info: jobLevel ''pull-requests'' permission set to ''read'': .github/workflows/spelling2.yml:84'
+      - 'Info: jobLevel ''actions'' permission set to ''read'': .github/workflows/spelling2.yml:85'
+      - 'Warn: jobLevel ''security-events'' permission set to ''write'': .github/workflows/spelling2.yml:86'
+      - 'Info: jobLevel ''actions'' permission set to ''read'': .github/workflows/spelling2.yml:148'
+      - 'Warn: jobLevel ''contents'' permission set to ''write'': .github/workflows/spelling2.yml:149'
+      - 'Info: topLevel ''contents'' permission set to ''read'': .github/workflows/dependency-review.yml:17'
+      - 'Info: found token with ''none'' permissions: .github/workflows/issue-triage.lock.yml:1'
+      - 'Info: topLevel ''models'' permission set to ''read'': .github/workflows/manual-batch-issue-deduplication.yml:19'
+      - 'Warn: no topLevel permission defined: .github/workflows/package-submissions.yml:1'
+      - 'Info: topLevel ''contents'' permission set to ''read'': .github/workflows/pr-intake.yml:26'
+      - 'Info: topLevel ''contents'' permission set to ''read'': .github/workflows/regenerate-devdocs-website.yml:20'
+      - 'Info: found token with ''none'' permissions: .github/workflows/spelling2.yml:1'
+      - 'Info: topLevel ''contents'' permission set to ''read'': .github/workflows/telemetry-pr-check.yml:16'
+  - name: License
+    score: 10
+    reason: license file detected
+    details:
+      - 'Info: project has a license file: LICENSE:0'
+      - 'Info: FSF or OSI recognized license: MIT License: LICENSE:0'
+  - name: Binary-Artifacts
+    score: 9
+    reason: binaries present in source code
+    details:
+      - 'Warn: binary detected: installer/PowerToysSetupVNext/WebView2/MicrosoftEdgeWebview2Setup.exe:1'
+  - name: Signed-Releases
+    score: 0
+    reason: Project has not signed or included provenance with any releases.
+    details:
+      - 'Warn: release artifact v0.101.2492.0 not signed: https://api.github.com/repos/microsoft/PowerToys/releases/383990926'
+      - 'Warn: release artifact v0.101.2453.0 not signed: https://api.github.com/repos/microsoft/PowerToys/releases/382782083'
+      - 'Warn: release artifact v0.101.2432.0 not signed: https://api.github.com/repos/microsoft/PowerToys/releases/380544944'
+      - 'Warn: release artifact v0.101.2373.0 not signed: https://api.github.com/repos/microsoft/PowerToys/releases/377010951'
+      - 'Warn: release artifact v0.101.2362.0 not signed: https://api.github.com/repos/microsoft/PowerToys/releases/369031301'
+      - 'Warn: release artifact v0.101.2492.0 does not have provenance: https://api.github.com/repos/microsoft/PowerToys/releases/383990926'
+      - 'Warn: release artifact v0.101.2453.0 does not have provenance: https://api.github.com/repos/microsoft/PowerToys/releases/382782083'
+      - 'Warn: release artifact v0.101.2432.0 does not have provenance: https://api.github.com/repos/microsoft/PowerToys/releases/380544944'
+      - 'Warn: release artifact v0.101.2373.0 does not have provenance: https://api.github.com/repos/microsoft/PowerToys/releases/377010951'
+      - 'Warn: release artifact v0.101.2362.0 does not have provenance: https://api.github.com/repos/microsoft/PowerToys/releases/369031301'
+  - name: Branch-Protection
+    score: 1
+    reason: branch protection is not maximal on development and all release branches
+    details:
+      - 'Warn: branch protection not enabled for branch ''stable'''
+      - 'Info: ''allow deletion'' disabled on branch ''main'''
+      - 'Info: ''force pushes'' disabled on branch ''main'''
+      - 'Warn: ''branch protection settings apply to administrators'' is disabled on branch ''main'''
+      - 'Warn: ''stale review dismissal'' is disabled on branch ''main'''
+      - 'Warn: required approving review count is 1 on branch ''main'''
+      - 'Info: codeowner review is required on branch ''main'''
+      - 'Info: ''last push approval'' is required to merge on branch ''main'''
+      - 'Info: status check found to merge onto on branch ''main'''
+      - 'Info: PRs are required in order to make changes on branch ''main'''
+  - name: Pinned-Dependencies
+    score: 9
+    reason: dependency not pinned by hash detected -- score normalized to 9
+    details:
+      - 'Warn: GitHub-owned GitHubAction not pinned by hash: .github/workflows/dedupe-digest.yml:54: update your workflow using https://app.stepsecurity.io/secureworkflow/microsoft/PowerToys/dedupe-digest.yml/main?enable=pin'
+      - 'Warn: npmCommand not pinned by hash: .github/workflows/regenerate-devdocs-website.yml:48'
+      - 'Info:  74 out of  75 GitHub-owned GitHubAction dependencies pinned'
+      - 'Info:   8 out of   8 third-party GitHubAction dependencies pinned'
+      - 'Info:   0 out of   1 npmCommand dependencies pinned'
+  - name: Fuzzing
+    score: 10
+    reason: project is fuzzed
+    details:
+      - 'Info: CppLibFuzzer integration found: src/modules/powerrename/PowerRename.FuzzingTest/PowerRename.FuzzingTest.cpp:8'
+      - 'Info: CppLibFuzzer integration found: src/modules/powerrename/PowerRename.FuzzingTest/PowerRename.FuzzingTest.cpp:63'
+  - name: SAST
+    score: 0
+    reason: SAST tool is not run on all commits -- score normalized to 0
+    details:
+      - 'Warn: 0 commits out of 30 are checked with a SAST tool'
+---
