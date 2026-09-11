@@ -2,29 +2,29 @@ about:
   description: "Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows"
   license: MIT
   homepage: 
-  head: 2d51155
+  head: da4c274
   archived: false
   latestVersion: "v0.101.2522.0"
   latestRelease: "v0.101.2362.0"
   latestPrerelease: "v0.101.2522.0"
-  collectedAt: 2026-09-11T00:01:12Z
+  collectedAt: 2026-09-11T05:29:39Z
 timeline:
   created: 2019-05-01
-  lastCommit: 2026-09-10
+  lastCommit: 2026-09-11
   lastVersion: 2026-09-10
   lastRelease: 2026-08-25
   lastPrerelease: 2026-09-10
 popularity:
-  star: 138541
+  star: 138545
   watcher: 1231
   fork: 8550
   release: 139
   contributor: 664
   pullRequest: 8610
-  issue: 41507
+  issue: 41509
 language:
   C: 30547780
-  C#: 19060128
+  C#: 19139051
   C++: 9450718
   PowerShell: 455081
   Python: 158074
@@ -34,72 +34,72 @@ language:
   Rich Text Format: 9666
   Batchfile: 3690
   Makefile: 1408
-totalBytes: 59742303
+totalBytes: 59821226
 recent:
   last30d:
     since: 2026-08-12
     release: 5
-    mergedPR: 78
-    openPR: 90
-    closedIssue: 180
-    openIssue: 281
-    commit: 103
+    mergedPR: 79
+    openPR: 89
+    closedIssue: 181
+    openIssue: 282
+    commit: 104
   last60d:
     since: 2026-07-13
     release: 5
-    mergedPR: 191
-    openPR: 123
-    closedIssue: 318
-    openIssue: 483
-    commit: 236
+    mergedPR: 192
+    openPR: 122
+    closedIssue: 319
+    openIssue: 484
+    commit: 237
   last90d:
     since: 2026-06-13
     release: 7
-    mergedPR: 322
-    openPR: 140
-    closedIssue: 528
-    openIssue: 755
-    commit: 385
+    mergedPR: 323
+    openPR: 139
+    closedIssue: 529
+    openIssue: 756
+    commit: 386
   last180d:
     since: 2026-03-15
     release: 12
-    mergedPR: 667
-    openPR: 147
-    closedIssue: 1480
-    openIssue: 1652
-    commit: 681
+    mergedPR: 668
+    openPR: 146
+    closedIssue: 1481
+    openIssue: 1653
+    commit: 682
   last360d:
     since: 2025-09-16
     release: 21
-    mergedPR: 1299
-    openPR: 153
-    closedIssue: 4044
-    openIssue: 2490
-    commit: 1296
+    mergedPR: 1300
+    openPR: 152
+    closedIssue: 4045
+    openIssue: 2491
+    commit: 1297
   last720d:
     since: 2024-09-21
     release: 36
-    mergedPR: 2248
-    openPR: 155
-    closedIssue: 8037
-    openIssue: 4156
-    commit: 2163
+    mergedPR: 2249
+    openPR: 154
+    closedIssue: 8038
+    openIssue: 4157
+    commit: 2164
 total:
   release: 139
-  mergedPR: 7087
-  openPR: 155
-  closedIssue: 33970
-  openIssue: 7537
-  commit: 9642
+  mergedPR: 7088
+  openPR: 154
+  closedIssue: 33971
+  openIssue: 7538
+  commit: 9643
 ---
 path: /home/runner/.x-repo/github.com/microsoft/PowerToys
-collectedAt: 2026-09-11T00:01:43Z
+collectedAt: 2026-09-11T05:30:00Z
 loc:
   CSharp:
-    code: 400513
-    comments: 67407
-    blanks: 78485
-    files: 4164
+    code: 402208
+    comments: 67426
+    blanks: 78744
+    files: 4169
   C:
     code: 278129
     comments: 498
@@ -226,10 +226,10 @@ loc:
     blanks: 61
     files: 38
 total:
-  code: 1048110
-  comments: 142933
-  blanks: 131937
-  files: 7089
+  code: 1049805
+  comments: 142952
+  blanks: 132196
+  files: 7094
 ---
 date: "2026-09-07"
 repo:
