@@ -14,14 +14,14 @@ x install PowerToys
 
 ## Code insight
 
-Total: **1,216,326** lines of code across **5802** files in the top 5 languages.
+Total: **1,217,648** lines of code across **5807** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| CSharp | 505,654 | 75,321 | 94,769 | 4854 |
+| CSharp | 506,931 | 75,357 | 94,932 | 4859 |
 | C | 306,916 | 2,512 | 7,268 | 20 |
 | Cpp | 164,959 | 15,190 | 25,563 | 613 |
-| Xaml | 44,468 | 1,307 | 1,704 | 314 |
+| Xaml | 44,469 | 1,307 | 1,704 | 314 |
 | CppHeader | 37,765 | 610 | 7,876 | 1 |
 
 ## OpenSSF Scorecard
@@ -42,27 +42,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v0.103.3012` (2026-10-27)
-- **Last commit**: 2026-10-30
+- **Last commit**: 2026-10-31
 - **Assets in release**: 7
 
 ## Popularity
 
-- **Stars**: 140,263 · **Forks**: 8,673 · **Open issues**: 42,282 · **Contributors**: 691
+- **Stars**: 140,312 · **Forks**: 8,679 · **Open issues**: 42,300 · **Contributors**: 691
 
 ## Totals (cumulative)
 
-- **Releases**: 140 · **Merged PRs**: 7392 · **Open PRs**: 195 · **Closed issues**: 34538 · **Open issues**: 7744 · **Commits**: 9942
+- **Releases**: 140 · **Merged PRs**: 7397 · **Open PRs**: 218 · **Closed issues**: 34574 · **Open issues**: 7726 · **Commits**: 9947
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-30 | 5 | 158 | 109 | 170 | 332 | 186 |
-| last60d | 2026-08-31 | 5 | 286 | 146 | 400 | 552 | 341 |
-| 90d | 2026-08-01 | 6 | 441 | 169 | 644 | 736 | 479 |
-| last180d | 2026-05-03 | 9 | 776 | 188 | 1303 | 1511 | 817 |
-| 360d | 2025-11-04 | 18 | 1428 | 193 | 3604 | 2513 | 1431 |
-| last720d | 2024-11-09 | 34 | 2455 | 195 | 8043 | 4188 | 2365 |
+| 30d | 2026-10-01 | 5 | 160 | 132 | 168 | 336 | 191 |
+| last60d | 2026-09-01 | 5 | 288 | 169 | 388 | 551 | 346 |
+| 90d | 2026-08-02 | 6 | 445 | 191 | 644 | 744 | 484 |
+| last180d | 2026-05-04 | 9 | 780 | 211 | 1309 | 1503 | 822 |
+| 360d | 2025-11-05 | 18 | 1422 | 216 | 3605 | 2508 | 1436 |
+| last720d | 2024-11-10 | 34 | 2460 | 218 | 8067 | 4170 | 2370 |
 
 ## Release assets
 
@@ -85,4 +85,4 @@ Install metadata for PowerToys lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261030.yml` · 2026-10-30T06:34:38Z._
+_Snapshot: `data/card/261031.yml` · 2026-10-31T06:20:22Z._
