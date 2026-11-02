@@ -42,27 +42,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v0.103.3012` (2026-10-27)
-- **Last commit**: 2026-10-31
+- **Last commit**: 2026-11-02
 - **Assets in release**: 7
 
 ## Popularity
 
-- **Stars**: 140,366 · **Forks**: 8,682 · **Open issues**: 42,312 · **Contributors**: 691
+- **Stars**: 140,400 · **Forks**: 8,686 · **Open issues**: 42,330 · **Contributors**: 691
 
 ## Totals (cumulative)
 
-- **Releases**: 140 · **Merged PRs**: 7401 · **Open PRs**: 214 · **Closed issues**: 34580 · **Open issues**: 7732 · **Commits**: 9951
+- **Releases**: 140 · **Merged PRs**: 7402 · **Open PRs**: 216 · **Closed issues**: 34582 · **Open issues**: 7748 · **Commits**: 9952
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-02 | 5 | 162 | 126 | 168 | 337 | 166 |
-| last60d | 2026-09-02 | 5 | 289 | 164 | 378 | 539 | 317 |
-| 90d | 2026-08-03 | 6 | 441 | 186 | 645 | 746 | 433 |
-| last180d | 2026-05-05 | 9 | 782 | 207 | 1303 | 1498 | 814 |
-| 360d | 2025-11-06 | 18 | 1420 | 212 | 3592 | 2511 | 1402 |
-| last720d | 2024-11-11 | 34 | 2462 | 214 | 8067 | 4172 | 2374 |
+| 30d | 2026-10-03 | 5 | 160 | 126 | 161 | 347 | 167 |
+| last60d | 2026-09-03 | 5 | 285 | 167 | 370 | 548 | 318 |
+| 90d | 2026-08-04 | 6 | 435 | 188 | 637 | 757 | 434 |
+| last180d | 2026-05-06 | 9 | 780 | 209 | 1286 | 1498 | 815 |
+| 360d | 2025-11-07 | 18 | 1416 | 214 | 3581 | 2520 | 1403 |
+| last720d | 2024-11-12 | 34 | 2460 | 216 | 8060 | 4182 | 2374 |
 
 ## Release assets
 
@@ -85,4 +85,4 @@ Install metadata for PowerToys lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261101.yml` · 2026-11-01T06:56:42Z._
+_Snapshot: `data/card/261102.yml` · 2026-11-02T07:04:49Z._
