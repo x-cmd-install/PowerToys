@@ -41,40 +41,40 @@ Lowest-scoring checks:
 
 ## Release
 
-- **Latest**: `v0.103.3062` (2026-10-27)
+- **Latest**: `v0.102.3101` (2026-11-06)
 - **Last commit**: 2026-11-06
 - **Assets in release**: 7
 
 ## Popularity
 
-- **Stars**: 140,617 · **Forks**: 8,704 · **Open issues**: 42,418 · **Contributors**: 692
+- **Stars**: 140,665 · **Forks**: 8,704 · **Open issues**: 42,433 · **Contributors**: 692
 
 ## Totals (cumulative)
 
-- **Releases**: 141 · **Merged PRs**: 7433 · **Open PRs**: 216 · **Closed issues**: 34622 · **Open issues**: 7796 · **Commits**: 9980
+- **Releases**: 139 · **Merged PRs**: 7433 · **Open PRs**: 224 · **Closed issues**: 34628 · **Open issues**: 7805 · **Commits**: 9980
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-07 | 6 | 149 | 127 | 161 | 370 | 195 |
-| last60d | 2026-09-07 | 6 | 297 | 167 | 372 | 585 | 346 |
-| 90d | 2026-08-08 | 7 | 427 | 186 | 644 | 787 | 462 |
-| last180d | 2026-05-10 | 10 | 802 | 209 | 1293 | 1513 | 843 |
-| 360d | 2025-11-11 | 19 | 1433 | 214 | 3546 | 2558 | 1431 |
-| last720d | 2024-11-16 | 35 | 2483 | 216 | 8063 | 4213 | 2398 |
+| 30d | 2026-10-08 | 4 | 143 | 129 | 161 | 371 | 195 |
+| last60d | 2026-09-08 | 4 | 290 | 174 | 371 | 588 | 346 |
+| 90d | 2026-08-09 | 5 | 425 | 194 | 648 | 791 | 462 |
+| last180d | 2026-05-11 | 8 | 801 | 217 | 1291 | 1510 | 843 |
+| 360d | 2025-11-12 | 17 | 1416 | 222 | 3535 | 2563 | 1431 |
+| last720d | 2024-11-17 | 33 | 2483 | 224 | 8065 | 4216 | 2398 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [GroupPolicyObjectFiles-0.102.3001.0.zip](https://github.com/microsoft/PowerToys/releases/download/v0.102.3001/GroupPolicyObjectFiles-0.102.3001.0.zip) | 8.9 KiB | `other` |
-| [PowerToysSetup-0.102.3001.0-arm64.exe](https://github.com/microsoft/PowerToys/releases/download/v0.102.3001/PowerToysSetup-0.102.3001.0-arm64.exe) | 297.2 MiB | `other` |
-| [PowerToysSetup-0.102.3001.0-x64.exe](https://github.com/microsoft/PowerToys/releases/download/v0.102.3001/PowerToysSetup-0.102.3001.0-x64.exe) | 308.9 MiB | `other` |
-| [PowerToysUserSetup-0.102.3001.0-arm64.exe](https://github.com/microsoft/PowerToys/releases/download/v0.102.3001/PowerToysUserSetup-0.102.3001.0-arm64.exe) | 297.2 MiB | `other` |
-| [PowerToysUserSetup-0.102.3001.0-x64.exe](https://github.com/microsoft/PowerToys/releases/download/v0.102.3001/PowerToysUserSetup-0.102.3001.0-x64.exe) | 308.9 MiB | `other` |
-| [symbols-arm64.zip](https://github.com/microsoft/PowerToys/releases/download/v0.102.3001/symbols-arm64.zip) | 419.7 MiB | `other` |
-| [symbols-x64.zip](https://github.com/microsoft/PowerToys/releases/download/v0.102.3001/symbols-x64.zip) | 429.0 MiB | `other` |
+| [GroupPolicyObjectFiles-0.102.3101.0.zip](https://github.com/microsoft/PowerToys/releases/download/v0.102.3101/GroupPolicyObjectFiles-0.102.3101.0.zip) | 8.9 KiB | `other` |
+| [PowerToysSetup-0.102.3101.0-arm64.exe](https://github.com/microsoft/PowerToys/releases/download/v0.102.3101/PowerToysSetup-0.102.3101.0-arm64.exe) | 297.4 MiB | `other` |
+| [PowerToysSetup-0.102.3101.0-x64.exe](https://github.com/microsoft/PowerToys/releases/download/v0.102.3101/PowerToysSetup-0.102.3101.0-x64.exe) | 309.0 MiB | `other` |
+| [PowerToysUserSetup-0.102.3101.0-arm64.exe](https://github.com/microsoft/PowerToys/releases/download/v0.102.3101/PowerToysUserSetup-0.102.3101.0-arm64.exe) | 297.4 MiB | `other` |
+| [PowerToysUserSetup-0.102.3101.0-x64.exe](https://github.com/microsoft/PowerToys/releases/download/v0.102.3101/PowerToysUserSetup-0.102.3101.0-x64.exe) | 308.9 MiB | `other` |
+| [symbols-arm64.zip](https://github.com/microsoft/PowerToys/releases/download/v0.102.3101/symbols-arm64.zip) | 420.4 MiB | `other` |
+| [symbols-x64.zip](https://github.com/microsoft/PowerToys/releases/download/v0.102.3101/symbols-x64.zip) | 429.4 MiB | `other` |
 
 ## Improve this data
 
@@ -85,4 +85,4 @@ Install metadata for PowerToys lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261106.yml` · 2026-11-06T07:29:59Z._
+_Snapshot: `data/card/261107.yml` · 2026-11-07T06:47:43Z._

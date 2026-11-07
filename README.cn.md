@@ -41,40 +41,40 @@ x install PowerToys
 
 ## 发布
 
-- **最新版本**: `v0.103.3062` (2026-10-27)
+- **最新版本**: `v0.102.3101` (2026-11-06)
 - **最近提交**: 2026-11-06
 - **Release 含资产**: 7 个
 
 ## 流行度
 
-- **Star**: 140,617 · **Fork**: 8,704 · **开放 issue**: 42,418 · **贡献者**: 692
+- **Star**: 140,665 · **Fork**: 8,704 · **开放 issue**: 42,433 · **贡献者**: 692
 
 ## 累计统计
 
-- **发布数**: 141 · **已合并 PR**: 7433 · **开放 PR**: 216 · **已关闭 issue**: 34622 · **开放 issue**: 7796 · **提交数**: 9980
+- **发布数**: 139 · **已合并 PR**: 7433 · **开放 PR**: 224 · **已关闭 issue**: 34628 · **开放 issue**: 7805 · **提交数**: 9980
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-07 | 6 | 149 | 127 | 161 | 370 | 195 |
-| last60d | 2026-09-07 | 6 | 297 | 167 | 372 | 585 | 346 |
-| 90d | 2026-08-08 | 7 | 427 | 186 | 644 | 787 | 462 |
-| last180d | 2026-05-10 | 10 | 802 | 209 | 1293 | 1513 | 843 |
-| 360d | 2025-11-11 | 19 | 1433 | 214 | 3546 | 2558 | 1431 |
-| last720d | 2024-11-16 | 35 | 2483 | 216 | 8063 | 4213 | 2398 |
+| 30d | 2026-10-08 | 4 | 143 | 129 | 161 | 371 | 195 |
+| last60d | 2026-09-08 | 4 | 290 | 174 | 371 | 588 | 346 |
+| 90d | 2026-08-09 | 5 | 425 | 194 | 648 | 791 | 462 |
+| last180d | 2026-05-11 | 8 | 801 | 217 | 1291 | 1510 | 843 |
+| 360d | 2025-11-12 | 17 | 1416 | 222 | 3535 | 2563 | 1431 |
+| last720d | 2024-11-17 | 33 | 2483 | 224 | 8065 | 4216 | 2398 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [GroupPolicyObjectFiles-0.102.3001.0.zip](https://github.com/microsoft/PowerToys/releases/download/v0.102.3001/GroupPolicyObjectFiles-0.102.3001.0.zip) | 8.9 KiB | `other` |
-| [PowerToysSetup-0.102.3001.0-arm64.exe](https://github.com/microsoft/PowerToys/releases/download/v0.102.3001/PowerToysSetup-0.102.3001.0-arm64.exe) | 297.2 MiB | `other` |
-| [PowerToysSetup-0.102.3001.0-x64.exe](https://github.com/microsoft/PowerToys/releases/download/v0.102.3001/PowerToysSetup-0.102.3001.0-x64.exe) | 308.9 MiB | `other` |
-| [PowerToysUserSetup-0.102.3001.0-arm64.exe](https://github.com/microsoft/PowerToys/releases/download/v0.102.3001/PowerToysUserSetup-0.102.3001.0-arm64.exe) | 297.2 MiB | `other` |
-| [PowerToysUserSetup-0.102.3001.0-x64.exe](https://github.com/microsoft/PowerToys/releases/download/v0.102.3001/PowerToysUserSetup-0.102.3001.0-x64.exe) | 308.9 MiB | `other` |
-| [symbols-arm64.zip](https://github.com/microsoft/PowerToys/releases/download/v0.102.3001/symbols-arm64.zip) | 419.7 MiB | `other` |
-| [symbols-x64.zip](https://github.com/microsoft/PowerToys/releases/download/v0.102.3001/symbols-x64.zip) | 429.0 MiB | `other` |
+| [GroupPolicyObjectFiles-0.102.3101.0.zip](https://github.com/microsoft/PowerToys/releases/download/v0.102.3101/GroupPolicyObjectFiles-0.102.3101.0.zip) | 8.9 KiB | `other` |
+| [PowerToysSetup-0.102.3101.0-arm64.exe](https://github.com/microsoft/PowerToys/releases/download/v0.102.3101/PowerToysSetup-0.102.3101.0-arm64.exe) | 297.4 MiB | `other` |
+| [PowerToysSetup-0.102.3101.0-x64.exe](https://github.com/microsoft/PowerToys/releases/download/v0.102.3101/PowerToysSetup-0.102.3101.0-x64.exe) | 309.0 MiB | `other` |
+| [PowerToysUserSetup-0.102.3101.0-arm64.exe](https://github.com/microsoft/PowerToys/releases/download/v0.102.3101/PowerToysUserSetup-0.102.3101.0-arm64.exe) | 297.4 MiB | `other` |
+| [PowerToysUserSetup-0.102.3101.0-x64.exe](https://github.com/microsoft/PowerToys/releases/download/v0.102.3101/PowerToysUserSetup-0.102.3101.0-x64.exe) | 308.9 MiB | `other` |
+| [symbols-arm64.zip](https://github.com/microsoft/PowerToys/releases/download/v0.102.3101/symbols-arm64.zip) | 420.4 MiB | `other` |
+| [symbols-x64.zip](https://github.com/microsoft/PowerToys/releases/download/v0.102.3101/symbols-x64.zip) | 429.4 MiB | `other` |
 
 ## 改进这些数据
 
@@ -85,4 +85,4 @@ PowerToys 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261106.yml` · 2026-11-06T07:30:01Z._
+_数据快照: `data/card/261107.yml` · 2026-11-07T06:47:44Z._
