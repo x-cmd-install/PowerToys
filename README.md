@@ -47,22 +47,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 140,963 · **Forks**: 8,739 · **Open issues**: 42,536 · **Contributors**: 699
+- **Stars**: 140,993 · **Forks**: 8,742 · **Open issues**: 42,552 · **Contributors**: 699
 
 ## Totals (cumulative)
 
-- **Releases**: 141 · **Merged PRs**: 7465 · **Open PRs**: 238 · **Closed issues**: 34684 · **Open issues**: 7852 · **Commits**: 10009
+- **Releases**: 141 · **Merged PRs**: 7468 · **Open PRs**: 240 · **Closed issues**: 34689 · **Open issues**: 7863 · **Commits**: 10012
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-15 | 6 | 96 | 133 | 153 | 378 | 198 |
-| last60d | 2026-09-15 | 6 | 293 | 185 | 378 | 609 | 452 |
-| 90d | 2026-08-16 | 7 | 416 | 205 | 631 | 803 | 600 |
-| last180d | 2026-05-18 | 10 | 807 | 229 | 1294 | 1487 | 1212 |
-| 360d | 2025-11-19 | 19 | 1414 | 236 | 3454 | 2577 | 2052 |
-| last720d | 2024-11-24 | 35 | 2511 | 238 | 8054 | 4233 | 2418 |
+| 30d | 2026-10-16 | 6 | 91 | 131 | 157 | 380 | 166 |
+| last60d | 2026-09-16 | 6 | 293 | 186 | 372 | 614 | 413 |
+| 90d | 2026-08-17 | 7 | 415 | 205 | 628 | 806 | 576 |
+| last180d | 2026-05-19 | 10 | 805 | 231 | 1292 | 1488 | 1145 |
+| 360d | 2025-11-20 | 18 | 1415 | 238 | 3439 | 2579 | 2044 |
+| last720d | 2024-11-25 | 35 | 2513 | 240 | 8054 | 4238 | 2421 |
 
 ## Release assets
 
@@ -85,4 +85,4 @@ Install metadata for PowerToys lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261114.yml` · 2026-11-14T07:38:16Z._
+_Snapshot: `data/card/261115.yml` · 2026-11-15T07:25:28Z._
